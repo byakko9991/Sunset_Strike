@@ -31,7 +31,7 @@ Take a look at some snapshots from the game:
 
 ![Gameplay Screenshot 1](https://via.placeholder.com/600x400?text=Gameplay+Screenshot+1)
 ![Gameplay Screenshot 2](https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/image_2024-08-29_233456902.png)
-![Gameplay Screenshot 3](https://via.placeholder.com/600x400?text=Gameplay+Screenshot+3)
+![Gameplay Screenshot 3](https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/image_2024-08-29_233642917.png)
 
 *(Images are for illustrative purposes. Replace these links with actual screenshots of your game.)*
 
