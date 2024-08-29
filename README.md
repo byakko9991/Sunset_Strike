@@ -1,13 +1,9 @@
 # Sunset Strike
 
 Welcome to **Sunset Strike**! Experience a retro-style pixelated game where you defend your base against waves of enemies under a stunning sunset sky. This repository provides a preview of the game for users to watch and enjoy.
-<table>
-  <tr>
-    <td style="text-align: right;">
+<div style="text-align: right;">
       <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/Home_Screen.png" width="450" />
-    </td>
-  </tr>
-</table>
+ </div>
 ## Table of Contents
 
 - [About the Game](#about-the-game)
@@ -32,12 +28,14 @@ Welcome to **Sunset Strike**! Experience a retro-style pixelated game where you 
 ## Screenshots
 
 Take a look at some snapshots from the game:
-<div>
+<div >
 <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/Home_Screen.png" width="300" />
   </div>
-  
-<img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/resources/MapTiles.png" width="300" />
+  <div>
+    <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/resources/MapTiles.png" width="300" />
 <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/resources/MobTiles.png" width="300" />
+  </div>
+
 
 
 
