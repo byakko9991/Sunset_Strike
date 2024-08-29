@@ -32,7 +32,7 @@ Welcome to **Sunset Strike**! Experience a retro-style pixelated game where you 
 
 Take a look at some snapshots from the game:
 <div>
-  <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/Home_Screen.png" width="300" />
+<!--   <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/Home_Screen.png" width="300" /> -->
     <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/InGame.png" width="300" />
   <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/InGame4.png" width="300" />
 </div>
