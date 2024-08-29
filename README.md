@@ -4,7 +4,7 @@ Welcome to **Sunset Strike**! Experience a retro-style pixelated game where you 
 <table>
   <tr>
     <td style="text-align: center;">
-      <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/Captura%20de%20pantalla%202024-08-29%202339311.png" width="450" />
+      <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/Home_Screen.png" width="450" />
     </td>
   </tr>
 </table>
