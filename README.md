@@ -4,9 +4,9 @@ Welcome to **Sunset Strike**! Experience a retro-style pixelated game where you 
 
 <!-- Center the image with a white border -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/Home_Screen.png" 
-       width="450" 
-       style="border: 5px solid white; border-radius: 10px;" />
+  <div style="border: 5px solid white; border-radius: 10px;">
+  <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/Home_Screen.png" width="450" />
+  </div>
 </p>
  
 ## Table of Contents
