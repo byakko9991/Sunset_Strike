@@ -37,10 +37,9 @@ Take a look at some snapshots from the game:
 <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/resources/MobTiles.png" width="300" />
 
   </div>
-  <div style="text-align: center;>
+  <p align="center">
           <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/resources/uiTiles.png" width="300" />
-
-  </div>
+  </p>
 
 
 
