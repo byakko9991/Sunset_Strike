@@ -6,7 +6,7 @@ Welcome to **Sunset Strike**! Experience a retro-style pixelated game where you 
 <p align="center">
   <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/Home_Screen.png" 
        width="450" 
-       style="border: 5px solid #ffffff; border-radius: 10px;" />
+       style="border: 5px solid white; border-radius: 10px;" />
 </p>
  
 ## Table of Contents
