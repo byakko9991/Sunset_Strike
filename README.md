@@ -6,13 +6,6 @@ Welcome to **Sunset Strike**! Experience a retro-style pixelated game where you 
 <p align="center">
   <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/Home_Screen.png" width="450" />
 </p>
-
-<!-- Center and link the image -->
-<p align="center">
-  <a href="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/Home_Screen.png" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/Home_Screen.png" width="450" style="max-width: 100%;" />
-  </a>
-</p>
  
 ## Table of Contents
 
