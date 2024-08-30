@@ -39,7 +39,7 @@ Take a look at some snapshots from the game:
   <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/InGame4.png" width="300" />
 </div>
 
-`Images of the own created tiles of the Game`
+`Images of the created tiles for the game`
   <div>
     <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/resources/MapTiles.png" width="320" />
 <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/resources/MobTiles.png" width="300" />
