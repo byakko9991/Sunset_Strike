@@ -3,33 +3,29 @@
 ## Welcome to **Sunset Strike**!
 Dive into a retro-style pixelated shoot 'em up where you take command of a fire-breathing dragon, blasting through waves of enemies. Set against a mesmerizing sunset backdrop, this repository showcases a preview of the game's fiery action and nostalgic pixel art for you to experience and enjoy.
 
-<div style="display: flex; align-items: flex-start; justify-content: center;">
-  <!-- Table on the left -->
-  <div style="flex: 1; padding-right: 20px;">
-    <table style="margin: 0 auto;">
-      <tr>
-        <!-- Image on the left -->
-        <td style="padding-right: 20px; vertical-align: top; text-align: center;">
-          <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/Home_Screen.png" width="450" />
-        </td>
-        <td style="vertical-align: top; text-align: left;">
-          <p><a href="#about-the-game">About the Game</a></p>
-          <p><a href="#features">Features</a></p>
-          <p><a href="#screenshots">Screenshots</a></p>
-          <p><a href="#watch-the-preview">Watch the Preview</a></p>
-          <p><a href="#visit-our-webpage">Visit Our Webpage</a></p>
-          <p><a href="#contributing">Contributing</a></p>
-          <p><a href="#license">License</a></p>
-        </td>
-      </tr>
-    </table>
-  </div>
+<table style="width: 100%;">
+  <tr>
+    <!-- Image and list on the left -->
+    <td style="width: 50%; vertical-align: top; padding-right: 20px;">
+      <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/Home_Screen.png" width="450" />
+      <ul style="list-style-type: none; padding-left: 0;">
+        <li><a href="#about-the-game">About the Game</a></li>
+        <li><a href="#features">Features</a></li>
+        <li><a href="#screenshots">Screenshots</a></li>
+        <li><a href="#watch-the-preview">Watch the Preview</a></li>
+        <li><a href="#visit-our-webpage">Visit Our Webpage</a></li>
+        <li><a href="#contributing">Contributing</a></li>
+        <li><a href="#license">License</a></li>
+      </ul>
+    </td>
+    
+    <!-- Text on the right -->
+    <td style="width: 50%; vertical-align: top;">
+      **Sunset Strike** is a pixel art game where players are tasked with defending their base from various enemies in a vibrant, 8-bit world. The game captures the essence of retro gaming with modern gameplay elements, creating an immersive and nostalgic experience.
+    </td>
+  </tr>
+</table>
 
-  <!-- Text on the right -->
-  <div style="flex: 2; text-align: left;">
-    **Sunset Strike** is a pixel art game where players are tasked with defending their base from various enemies in a vibrant, 8-bit world. The game captures the essence of retro gaming with modern gameplay elements, creating an immersive and nostalgic experience.
-  </div>
-</div>
 
 
 ## Features
