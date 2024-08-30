@@ -1,4 +1,5 @@
 # Sunset Strike - A magic 8-bit journey!
+### 👉 [Sunset Strike - Official Webpage](https://www.example.com/)
 
 <table style="margin: 0 auto; width: 100%;">
   <tr>
@@ -53,11 +54,8 @@ Take a look at some snapshots from the game :
 Watch a preview of **Sunset Strike** to see the game in action:
 [![Watch the Preview](https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/InGameGIF.gif)](https://www.youtube.com/)
 ---
-## 👉 [Sunset Strike - Official Webpage](https://www.example.com/)
-
 ## Contributing
 
 We welcome feedback and suggestions! Since this is a preview, contributions are limited to providing feedback or reporting issues. If you have ideas or improvements, please open an issue or contact us directly.
----
 
 Enjoy the preview of **Sunset Strike** and dive into the nostalgic world of retro gaming!
