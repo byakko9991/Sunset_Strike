@@ -10,7 +10,6 @@
     <!-- Links in the middle -->
     <!-- Text on the right -->
     <td style="width: 25%; vertical-align: top; text-align: left;">
-      👉 [Sunset Strike - Official Webpage](https://www.example.com/)
       <p><strong>Sunset Strike</strong> is a pixel art game where players are tasked with defending their base from various enemies in a vibrant, 8-bit world. The game captures the essence of retro gaming with modern gameplay elements, creating an immersive and nostalgic experience.</p>
     </td>
     <td style="width: 40%; vertical-align: top; text-align: left;">
@@ -52,11 +51,11 @@ Take a look at some snapshots from the game :
   
 ## Watch the Preview
 
-Watch a preview of **Sunset Strike** to see the game in action:
+👉 [Sunset Strike - Official Webpage](https://www.example.com/)
+
 [![Watch the Preview](https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/InGameGIF.gif)](https://www.youtube.com/)
 ---
 ## Contributing
 
 We welcome feedback and suggestions! Since this is a preview, contributions are limited to providing feedback or reporting issues. If you have ideas or improvements, please open an issue or contact us directly.
-
 Enjoy the preview of **Sunset Strike** and dive into the nostalgic world of retro gaming!
