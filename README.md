@@ -63,13 +63,11 @@ Watch a preview of **Sunset Strike** to see the game in action:
     <!-- Image on the left -->
     <td style="width: 50%; padding-right: 20px; vertical-align: top; text-align: center;">
       [![Watch the Preview](https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/InGameGIF.gif)](https://www.youtube.com/)
-
     </td>
   </tr>
 </table>
 
 ## Visit Our Webpage
-
 For more information and to play the game, visit our official webpage:
 
 👉 [Sunset Strike - Official Webpage](https://www.example.com/)
