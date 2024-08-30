@@ -3,27 +3,24 @@
 ## Welcome to **Sunset Strike**!
 Dive into a retro-style pixelated shoot 'em up where you take command of a fire-breathing dragon, blasting through waves of enemies. Set against a mesmerizing sunset backdrop, this repository showcases a preview of the game's fiery action and nostalgic pixel art for you to experience and enjoy.
 
-<p align="center">
-<table>
+<table style="margin: 0 auto;">
   <tr>
     <!-- Image on the left -->
-    <td style="padding-right: 20px; vertical-align: top;">
+    <td style="padding-right: 20px; vertical-align: top; text-align: center;">
       <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/Home_Screen.png" width="450" />
     </td>
-    <td style="vertical-align: top;">
-      <ul>
-        <p><a href="#about-the-game">About the Game</a></p>
-<p><a href="#features">Features</a></p>
-<p><a href="#screenshots">Screenshots</a></p>
-<p><a href="#watch-the-preview">Watch the Preview</a></p>
-<p><a href="#visit-our-webpage">Visit Our Webpage</a></p>
-<p><a href="#contributing">Contributing</a></p>
-<p><a href="#license">License</a></p>
-      </ul>
+    <td style="vertical-align: top; text-align: left;">
+      <p><a href="#about-the-game">About the Game</a></p>
+      <p><a href="#features">Features</a></p>
+      <p><a href="#screenshots">Screenshots</a></p>
+      <p><a href="#watch-the-preview">Watch the Preview</a></p>
+      <p><a href="#visit-our-webpage">Visit Our Webpage</a></p>
+      <p><a href="#contributing">Contributing</a></p>
+      <p><a href="#license">License</a></p>
     </td>
   </tr>
 </table>
-</p>
+
 
 
 
