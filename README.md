@@ -25,11 +25,6 @@ Dive into a retro-style pixelated shoot 'em up where you take command of a fire-
     </td>
   </tr>
 </table>
-
-
-
-
-
 ## Features
 
 - **Classic Pixel Art Style**: Enjoy beautifully crafted retro graphics.
@@ -59,8 +54,8 @@ Take a look at some snapshots from the game :
 
 Watch a preview of **Sunset Strike** to see the game in action:
 [![Watch the Preview](https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/InGameGIF.gif)](https://www.youtube.com/)
-_For more information and to play the game, visit our official webpage:_
-### 👉 [Sunset Strike - Official Webpage](https://www.example.com/)
+
+## 👉 [Sunset Strike - Official Webpage](https://www.example.com/)
 
 ## Contributing
 
