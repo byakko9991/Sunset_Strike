@@ -18,7 +18,6 @@ Dive into a retro-style pixelated shoot 'em up where you take command of a fire-
 <p><a href="#visit-our-webpage">Visit Our Webpage</a></p>
 <p><a href="#contributing">Contributing</a></p>
 <p><a href="#license">License</a></p>
-
       </ul>
     </td>
   </tr>
