@@ -58,21 +58,9 @@ Take a look at some snapshots from the game :
 ## Watch the Preview
 
 Watch a preview of **Sunset Strike** to see the game in action:
-<table style="margin: 0 auto; width: 100%;">
-  <tr>
-    <!-- Image on the left -->
-    <td style="width: 50%; padding-right: 20px; vertical-align: top; text-align: center;">
-      [![Watch the Preview](https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/InGameGIF.gif)](https://www.youtube.com/)
-    </td>
-  </tr>
-</table>
-
-## Visit Our Webpage
-For more information and to play the game, visit our official webpage:
-
-👉 [Sunset Strike - Official Webpage](https://www.example.com/)
-
-*(Replace `https://www.example.com/` with the actual URL where the game is hosted.)*
+[![Watch the Preview](https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/InGameGIF.gif)](https://www.youtube.com/)
+_For more information and to play the game, visit our official webpage:_
+### 👉 [Sunset Strike - Official Webpage](https://www.example.com/)
 
 ## Contributing
 
