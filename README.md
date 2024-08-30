@@ -39,27 +39,27 @@ Dive into a retro-style pixelated shoot 'em up where you take command of a fire-
 
 ## Screenshots
 
-Take a look at some snapshots from the game:
+Take a look at some snapshots from the game :
 
-`Ingame Images`
+`InGame Images` & `Tiles for the game`
 <div>
 <!--   <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/Home_Screen.png" width="300" /> -->
     <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/InGame.png" width="300" />
   <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/InGame4.png" width="300" />
 </div>
 
-`Images of the created tiles for the game`
+
   <div>
     <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/resources/MapTiles.png" width="320" />
 <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/resources/MobTiles.png" width="300" />
                 <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/resources/uiTiles.png" width="350" />
-
   </div>
+  
 ## Watch the Preview
 
 Watch a preview of **Sunset Strike** to see the game in action:
 
-[![Watch the Preview](https://via.placeholder.com/600x400?text=Watch+the+Preview)](https://www.youtube.com/)
+[![Watch the Preview]()](https://www.youtube.com/)
 
 *(Replace the link with the actual URL to your preview video, e.g., a YouTube link or another video hosting platform.)*
 
