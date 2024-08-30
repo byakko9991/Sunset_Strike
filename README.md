@@ -11,7 +11,7 @@ Dive into a retro-style pixelated shoot 'em up where you take command of a fire-
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li><a href="#about-the-game">About the Game</a></li>
+        <a href="#about-the-game">About the Game</a>
         <li><a href="#features">Features</a></li>
         <li><a href="#screenshots">Screenshots</a></li>
         <li><a href="#watch-the-preview">Watch the Preview</a></li>
