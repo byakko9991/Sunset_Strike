@@ -16,7 +16,7 @@
 <!--       <p><a href="#about-the-game">About the Game</a></p> -->
       <p><a href="#features">Features</a></p>
       <p><a href="#screenshots">Screenshots</a></p>
-      <p><a href="#Watch the Preview ">Watch the Preview</a></p>
+      <p><a href="#watch-the-preview----sunset-strike---official-webpage">Watch the Preview</a></p>
       <p><a href="https://t.ly/8naMA">Visit Our Webpage</a></p>
 <!--       <p><a href="#contributing">Contributing</a></p> -->
 <!--       <p><a href="#license">License</a></p> -->
