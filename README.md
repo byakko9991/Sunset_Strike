@@ -3,7 +3,8 @@
 ## Welcome to **Sunset Strike**!
 Dive into a retro-style pixelated shoot 'em up where you take command of a fire-breathing dragon, blasting through waves of enemies. Set against a mesmerizing sunset backdrop, this repository showcases a preview of the game's fiery action and nostalgic pixel art for you to experience and enjoy.
 
-<table style="padding-left: 25%;">
+<p align="center">
+<table>
   <tr>
     <!-- Image on the left -->
     <td style="padding-right: 20px; vertical-align: top;">
@@ -22,6 +23,7 @@ Dive into a retro-style pixelated shoot 'em up where you take command of a fire-
     </td>
   </tr>
 </table>
+</p>
 
 
 
