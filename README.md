@@ -52,7 +52,7 @@ Take a look at some snapshots from the game :
 ## Watch the Preview - 👉 [Sunset Strike - Official Webpage](https://www.example.com/)
 
 [![Watch the Preview](https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/InGameGIF.gif)](https://www.youtube.com/)
----
+
 ## Contributing
 
 We welcome feedback and suggestions! Since this is a preview, contributions are limited to providing feedback or reporting issues. If you have ideas or improvements, please open an issue or contact us directly.
