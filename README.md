@@ -10,7 +10,7 @@ Dive into a retro-style pixelated shoot 'em up where you take command of a fire-
       <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/Home_Screen.png" width="100%" style="max-width: 600px;" />
     </td>
     <!-- Links in the middle -->
-    <td style="width: 25%; vertical-align: top; text-align: left;">
+    <td style="width: 40%; vertical-align: top; text-align: left;">
       <p><a href="#about-the-game">About the Game</a></p>
       <p><a href="#features">Features</a></p>
       <p><a href="#screenshots">Screenshots</a></p>
