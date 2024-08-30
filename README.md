@@ -61,5 +61,4 @@ Since this is a preview, contributions are limited to providing feedback or repo
 If you have ideas or improvements, please open an issue or contact us directly.
 
 Enjoy the preview of **Sunset Strike** and dive into the nostalgic world of retro gaming!
-
 Dont forget to leave your starr! ;D
