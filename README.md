@@ -1,7 +1,4 @@
 # Sunset Strike
-Dive into a retro-style pixelated shoot 'em up where you take command of a fire-breathing dragon, blasting through waves of enemies. Set against a mesmerizing sunset backdrop, this repository showcases a preview of the game's fiery action and nostalgic pixel art for you to experience and enjoy.
-## Welcome to **Sunset Strike**!
-
 
 <table style="margin: 0 auto; width: 100%;">
   <tr>
@@ -25,6 +22,7 @@ Dive into a retro-style pixelated shoot 'em up where you take command of a fire-
     </td>
   </tr>
 </table>
+
 ## Features
 
 - **Classic Pixel Art Style**: Enjoy beautifully crafted retro graphics.
@@ -54,17 +52,12 @@ Take a look at some snapshots from the game :
 
 Watch a preview of **Sunset Strike** to see the game in action:
 [![Watch the Preview](https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/InGameGIF.gif)](https://www.youtube.com/)
-
+---
 ## 👉 [Sunset Strike - Official Webpage](https://www.example.com/)
 
 ## Contributing
 
 We welcome feedback and suggestions! Since this is a preview, contributions are limited to providing feedback or reporting issues. If you have ideas or improvements, please open an issue or contact us directly.
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ---
 
 Enjoy the preview of **Sunset Strike** and dive into the nostalgic world of retro gaming!
