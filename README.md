@@ -59,7 +59,7 @@ Take a look at some snapshots from the game :
 
 Watch a preview of **Sunset Strike** to see the game in action:
 
-[![Watch the Preview]()](https://www.youtube.com/)
+[![Watch the Preview](https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/InGame3.png)](https://www.youtube.com/)
 
 *(Replace the link with the actual URL to your preview video, e.g., a YouTube link or another video hosting platform.)*
 
