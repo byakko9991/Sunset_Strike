@@ -9,8 +9,6 @@ Dive into a retro-style pixelated shoot 'em up where you take command of a fire-
     <td style="padding-right: 20px; vertical-align: top;">
       <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/Home_Screen.png" width="450" />
     </td>
-    
-    <!-- List on the right -->
     <td style="vertical-align: top;">
       <ul>
         <li><a href="#about-the-game">About the Game</a></li>
