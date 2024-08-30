@@ -59,6 +59,7 @@ Take a look at some snapshots from the game :
 We welcome feedback and suggestions! 
 Since this is a preview, contributions are limited to providing feedback or reporting issues.
 If you have ideas or improvements, please open an issue or contact us directly.
-Dont forget to leave your starr! ;D
 
 Enjoy the preview of **Sunset Strike** and dive into the nostalgic world of retro gaming!
+
+Dont forget to leave your starr! ;D
