@@ -1,4 +1,4 @@
-# Sunset Strike
+# Sunset Strike - A magic 8-bit journey!
 
 <table style="margin: 0 auto; width: 100%;">
   <tr>
