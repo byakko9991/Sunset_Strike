@@ -24,14 +24,14 @@
   </tr>
 </table>
 
-## Features
+## 🐉Features
 
 - **Classic Pixel Art Style**: Enjoy beautifully crafted retro graphics.
 - **Dynamic Gameplay**: Witness waves of enemies challenge your strategy and reflexes.
 - **Power-Up Collection**: See how collecting shields and power-ups enhances your defense capabilities.
 - **Score Dynamics**: Explore the high score system and witness point accumulation in real-time.
 
-## Screenshots
+## Screenshots 📸💥
 
 Take a look at some snapshots from the game :
 
@@ -54,7 +54,7 @@ Take a look at some snapshots from the game :
 [![Watch the Preview](https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/InGameGIF.gif)](#)
 [![Watch the Preview](https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/InGameGIF2.gif)](#)
 
-## Contributing
+## 💕 Contributing
 
 We welcome feedback and suggestions! 
 Since this is a preview, contributions are limited to providing feedback or reporting issues.
