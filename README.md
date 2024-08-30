@@ -18,7 +18,7 @@ Dive into a retro-style pixelated shoot 'em up where you take command of a fire-
       <p><a href="#contributing">Contributing</a></p>
       <p><a href="#license">License</a></p>
     </td>
-    <td style=" vertical-align: top; text-align: center;">
+    <td style=" vertical-align: top; text-align: right;">
         **Sunset Strike** is a pixel art game where players are tasked with defending their base from various enemies in a vibrant, 8-bit world. The game captures the essence of retro gaming with modern gameplay elements, creating an immersive and nostalgic experience.
     </td>
   </tr>
