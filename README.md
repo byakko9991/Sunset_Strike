@@ -36,22 +36,15 @@ Take a look at some snapshots from the game:
     <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/InGame.png" width="300" />
   <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/InGame4.png" width="300" />
 </div>
-  
+  *(Ingame Images)*
+
   <div>
     <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/resources/MapTiles.png" width="320" />
 <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/resources/MobTiles.png" width="300" />
                 <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/resources/uiTiles.png" width="350" />
 
   </div>
-
-
-      
-
-
-
-
-
-*(Images are for illustrative purposes. Replace these links with actual screenshots of your game.)*
+*(Images of the own created tiles of the Game.)*
 
 ## Watch the Preview
 
