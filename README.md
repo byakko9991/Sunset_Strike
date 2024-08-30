@@ -1,5 +1,5 @@
-# Sunset Strike - A magic 8-bit journey!
-### 👉 [Sunset Strike - Official Webpage](https://www.example.com/)
+# Sunset Strike - A magic 8-bit journey! ### 👉 [Sunset Strike - Official Webpage](https://www.example.com/)
+
 
 <table style="margin: 0 auto; width: 100%;">
   <tr>
