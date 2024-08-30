@@ -6,7 +6,7 @@ Dive into a retro-style pixelated shoot 'em up where you take command of a fire-
 <table style="margin: 0 auto;">
   <tr>
     <!-- Image on the left -->
-    <td style="padding-right: 20px; vertical-align: top; text-align: center;">
+    <td style="padding-right: 5px; vertical-align: top; text-align: center;">
       <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/Home_Screen.png" width="450" />
     </td>
     <td style="vertical-align: top; text-align: left;">
