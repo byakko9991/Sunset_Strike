@@ -6,7 +6,7 @@ Dive into a retro-style pixelated shoot 'em up where you take command of a fire-
 <table style="margin: 0 auto;">
   <tr>
     <!-- Image on the left -->
-    <td style="padding-right: 50px; vertical-align: top; text-align: center;">
+    <td style="padding-right: 20px; vertical-align: top; text-align: center;">
       <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/Home_Screen.png" width="450" />
     </td>
     <td style="vertical-align: top; text-align: left;">
@@ -18,7 +18,7 @@ Dive into a retro-style pixelated shoot 'em up where you take command of a fire-
       <p><a href="#contributing">Contributing</a></p>
       <p><a href="#license">License</a></p>
     </td>
-    <td>
+    <td style="left: 20px;>
       <p>
         **Sunset Strike** is a pixel art game where players are tasked with defending their base from various enemies in a vibrant, 8-bit world. The game captures the essence of retro gaming with modern gameplay elements, creating an immersive and nostalgic experience.
       </p>
