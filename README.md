@@ -4,19 +4,23 @@
 Dive into a retro-style pixelated shoot 'em up where you take command of a fire-breathing dragon, blasting through waves of enemies. Set against a mesmerizing sunset backdrop, this repository showcases a preview of the game's fiery action and nostalgic pixel art for you to experience and enjoy.
 
 <!-- Center the image with a white border -->
-<div>
-  <div>
-  <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/Home_Screen.png" width="450" />
-</div>
-    
-<div>
- - [About the Game](#about-the-game)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Watch the Preview](#watch-the-preview)
-- [Visit Our Webpage](#visit-our-webpage)
-- [Contributing](#contributing)
-- [License](#license)    
+<div style="display: flex; align-items: flex-start;">
+  <!-- Image on the left -->
+  <div style="flex: 1; margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/Home_Screen.png" width="450" />
+  </div>
+  
+  <!-- List on the right -->
+  <div style="flex: 2;">
+    <ul>
+      <li><a href="#about-the-game">About the Game</a></li>
+      <li><a href="#features">Features</a></li>
+      <li><a href="#screenshots">Screenshots</a></li>
+      <li><a href="#watch-the-preview">Watch the Preview</a></li>
+      <li><a href="#visit-our-webpage">Visit Our Webpage</a></li>
+      <li><a href="#contributing">Contributing</a></li>
+      <li><a href="#license">License</a></li>
+    </ul>
   </div>
 </div>
 
