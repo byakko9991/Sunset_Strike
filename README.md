@@ -58,8 +58,15 @@ Take a look at some snapshots from the game :
 ## Watch the Preview
 
 Watch a preview of **Sunset Strike** to see the game in action:
+<table style="margin: 0 auto; width: 100%;">
+  <tr>
+    <!-- Image on the left -->
+    <td style="width: 50%; padding-right: 20px; vertical-align: top; text-align: center;">
+      [![Watch the Preview](https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/InGameGIF.gif)](https://www.youtube.com/)
 
-[![Watch the Preview](https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/InGameGIF.gif)](https://www.youtube.com/)
+    </td>
+  </tr>
+</table>
 
 ## Visit Our Webpage
 
