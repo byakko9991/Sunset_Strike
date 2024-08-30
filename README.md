@@ -17,7 +17,7 @@
       <p><a href="#features">Features</a></p>
       <p><a href="#screenshots">Screenshots</a></p>
       <p><a href="#watch-the-preview">Watch the Preview</a></p>
-      <p><a href="#visit-our-webpage">Visit Our Webpage</a></p>
+      <p><a href="https://t.ly/8naMA">Visit Our Webpage</a></p>
 <!--       <p><a href="#contributing">Contributing</a></p> -->
 <!--       <p><a href="#license">License</a></p> -->
     </td>
