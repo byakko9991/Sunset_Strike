@@ -6,9 +6,9 @@ Dive into a retro-style pixelated shoot 'em up where you take command of a fire-
 <!-- Center the image with a white border -->
 <div>
   <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/Home_Screen.png" width="450" />
-  <div>
+
     
-## Table of Contents
+<div>
  - [About the Game](#about-the-game)
 - [Features](#features)
 - [Screenshots](#screenshots)
