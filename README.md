@@ -4,19 +4,20 @@
 Dive into a retro-style pixelated shoot 'em up where you take command of a fire-breathing dragon, blasting through waves of enemies. Set against a mesmerizing sunset backdrop, this repository showcases a preview of the game's fiery action and nostalgic pixel art for you to experience and enjoy.
 
 <!-- Center the image with a white border -->
-<p align="center">
+<div>
   <img src="https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/Home_Screen.png" width="450" />
-</p>
- 
-## Table of Contents
-
-- [About the Game](#about-the-game)
+  - [About the Game](#about-the-game)
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Watch the Preview](#watch-the-preview)
 - [Visit Our Webpage](#visit-our-webpage)
 - [Contributing](#contributing)
 - [License](#license)
+</p>
+ 
+## Table of Contents
+
+
 
 ## About the Game
 
