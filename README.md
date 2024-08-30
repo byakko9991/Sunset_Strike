@@ -58,10 +58,8 @@ Take a look at some snapshots from the game :
 ## Watch the Preview
 
 Watch a preview of **Sunset Strike** to see the game in action:
-<p align="center">
+
 [![Watch the Preview](https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/InGameGIF.gif)](https://www.youtube.com/)
-</p>
-*(Replace the link with the actual URL to your preview video, e.g., a YouTube link or another video hosting platform.)*
 
 ## Visit Our Webpage
 
