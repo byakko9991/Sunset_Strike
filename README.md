@@ -24,7 +24,7 @@
   </tr>
 </table>
 
-## 🐉Features
+## Features 🐉
 
 - **Classic Pixel Art Style**: Enjoy beautifully crafted retro graphics.
 - **Dynamic Gameplay**: Witness waves of enemies challenge your strategy and reflexes.
