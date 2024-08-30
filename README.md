@@ -51,8 +51,8 @@ Take a look at some snapshots from the game :
   
 ## Watch the Preview - 👉 [Sunset Strike - Official Webpage](https://www.example.com/)
 
-[![Watch the Preview](https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/InGameGIF.gif)]
-[![Watch the Preview](https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/InGameGIF2".gif)]
+[![Watch the Preview](https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/InGameGIF.gif)](#)
+[![Watch the Preview](https://raw.githubusercontent.com/byakko9991/Sunset_Strike/main/InGameGIF2.gif)](#)
 
 ## Contributing
 
