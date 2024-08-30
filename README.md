@@ -11,13 +11,14 @@ Dive into a retro-style pixelated shoot 'em up where you take command of a fire-
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <a href="#about-the-game">About the Game</a>
-        <a href="#features">Features</a>
-        <a href="#screenshots">Screenshots</a>
-        <a href="#watch-the-preview">Watch the Preview</a>
-        <a href="#visit-our-webpage">Visit Our Webpage</a>
-        <a href="#contributing">Contributing</a>
-        <a href="#license">License</a>
+        <p><a href="#about-the-game">About the Game</a></p>
+<p><a href="#features">Features</a></p>
+<p><a href="#screenshots">Screenshots</a></p>
+<p><a href="#watch-the-preview">Watch the Preview</a></p>
+<p><a href="#visit-our-webpage">Visit Our Webpage</a></p>
+<p><a href="#contributing">Contributing</a></p>
+<p><a href="#license">License</a></p>
+
       </ul>
     </td>
   </tr>
